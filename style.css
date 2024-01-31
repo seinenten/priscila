@@ -1,27 +1,11 @@
-.aside {
-	width: 20px;
-	padding-top: 330px;
-	margin-right: 130px;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center ;
-}
-
-.aside-item {
-	width:20px;
-	height: 82px;
-	background-color:none;
-	color: #fff;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	border-radius: 5px;
-	margin:50px 0;
-}
-
 .wimg {
-    width: 150px;
+    width: 250px;
+}
+
+.banner{
+	width: 100%;
+	border: 1px solid blue;
+	height: 400px;
 }
 
 .login-container {
@@ -65,25 +49,3 @@ border: 1px solid black;
 border-radius: 0px;
 }
 
-
-.aside {
-width: 20px;
-padding-top: 330px;
-margin-right: 130px;
-display: flex;
-flex-direction: column;
-align-items: center;
-justify-content: center ;
-}
-
-.aside-item {
-width:20px;
-height: 82px;
-background-color:none;
-color: #fff;
-display: flex;
-align-items: center;
-justify-content: center;
-border-radius: 5px;
-margin:50px 0;
-}
