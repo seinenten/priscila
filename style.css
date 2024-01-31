@@ -1,0 +1,89 @@
+.aside {
+	width: 20px;
+	padding-top: 330px;
+	margin-right: 130px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center ;
+}
+
+.aside-item {
+	width:20px;
+	height: 82px;
+	background-color:none;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 5px;
+	margin:50px 0;
+}
+
+.wimg {
+    width: 150px;
+}
+
+.login-container {
+    width: 15%;
+    margin: 5px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.login-container h2 {
+text-align: center;
+color:red;
+}
+
+.login-form {
+margin-top: 25px;
+}
+
+.form-group {
+margin-bottom: 20px;
+}
+
+.form-group label {
+display: block;
+text-align: center;
+font-size: 14px;
+color: #555;
+}
+
+.form-group input {
+width: 100%;
+padding: 8px;
+font-size: 16px;
+border: 1px solid black;
+border-radius: 0px;
+}
+
+
+.aside {
+width: 20px;
+padding-top: 330px;
+margin-right: 130px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center ;
+}
+
+.aside-item {
+width:20px;
+height: 82px;
+background-color:none;
+color: #fff;
+display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 5px;
+margin:50px 0;
+}
